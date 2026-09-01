@@ -7,12 +7,8 @@
 
 - 🎓 I’m currently studying BE at VCET Vasai 
 - 🐧 I love Linux and Database 
-- 👨‍💻 Having knowledge about C C++ Java
+- 👨‍💻 Having better knowledge and practice about <img src="https://skillicons.dev/icons?i=java" width="40px" height="40px"/>
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,mysql,html,java,c,cpp,numpy,pandas,matplotlib" />
-</p>
 <h3>🛠️ My Tech Stack</h3>
 
 <table align="left" border="0">
