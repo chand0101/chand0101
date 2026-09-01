@@ -13,6 +13,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,mysql,html,java,c,cpp,numpy,pandas,matplotlib" />
 </p>
+<h3>🛠️ My Tech Stack</h3>
 
+<table align="left" border="0">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40px" height="40px"/><br><sub><b>Linux</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40px" height="40px"/><br><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40px" height="40px"/><br><sub><b>HTML5</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40px" height="40px"/><br><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40px" height="40px"/><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40px" height="40px"/><br><sub><b>C++<b><sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="40px" height="40px"/><br><sub><b>NumPy</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="40px" height="40px"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="40px" height="40px"/><br><sub><b>Matplotlib</b></sub></td>
+  </tr>
+</table>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
