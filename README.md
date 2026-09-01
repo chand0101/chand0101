@@ -19,8 +19,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40px" height="40px"/><br><sub><b>C</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40px" height="40px"/><br><sub><b>C++<b><sub></td>
     <td align="center"><img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png?raw=true" width="40px" height="40px"/><br><sub><b>NumPy</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="40px" height="40px"/><br><sub><b>Pandas</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="40px" height="40px"/><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/?size=96&id=xSkewUSqtErH&format=png" width="40px" height="40px"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" width="40px" height="40px"/><br><sub><b>Matplotlib</b></sub></td>
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
