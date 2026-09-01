@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying BE at VCET Vasai 
 - 🐧 I love Linux and Database 
-- 👨‍💻 Having better knowledge and practice about <img src="https://skillicons.dev/icons?i=java" width="40px" height="40px"/>
+- 👨‍💻 Having better knowledge and practice about <img src="https://skillicons.dev/icons?i=java" width="30px" height="20px"/>
 
 <h3>🛠️ My Tech Stack</h3>
 
