@@ -18,7 +18,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40px" height="40px"/><br><sub><b>Java</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40px" height="40px"/><br><sub><b>C</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40px" height="40px"/><br><sub><b>C++<b><sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="40px" height="40px"/><br><sub><b>NumPy</b></sub></td>
+    <td align="center"><img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicondark.png?raw=true" width="40px" height="40px"/><br><sub><b>NumPy</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="40px" height="40px"/><br><sub><b>Pandas</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="40px" height="40px"/><br><sub><b>Matplotlib</b></sub></td>
   </tr>
