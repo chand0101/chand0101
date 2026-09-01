@@ -10,8 +10,8 @@
 - 👨‍💻 Having knowledge about C C++ Java
 
 ### 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,mysql,html,java,c,c++,numpy,pandas,Matplotlib" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,mysql,html,java,c,cpp,numpy,pandas,matplotlib" />
 </p>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
