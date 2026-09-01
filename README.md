@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,mysql,html5,java,c,c++,NumPy,Pandas,Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=linux,mysql,html,java,c,c++,numpy,pandas,Matplotlib" />
 </p>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
